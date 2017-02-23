@@ -1,0 +1,40 @@
+TDD approach test cases before start application & status :—
+
+
+Verify the app successfully working in all iOS and Android devices		-	Pass  ( Verified in android version ( Kitkat - Samsung S4 to Marshmellow - Samsung S6 ) ) & iOS devices ( 5S & 6 ) )
+
+Verify when click app icon, application should open		-	Pass
+
+Verify when the app opens splash screen should show, when i develop using titanium appcelerator, Its not nesscessry for internet to load splash screen 		-	Pass
+
+Verify After splash screen, app should land to home screen	-	Pass
+
+Verify Home screen content loading with the use of remote API. So, If No network need to show message says “Please check your internet connection”	-	Pass
+
+Verify during the API call in-between, if poor network or network down should show message to user says  “Please check your internet connection”		-	Pass
+
+Verify the UI of the header, Header should have app logo in centre and along with menu icon which placed in left side and search icon in right side	-	Pass
+
+Verify marvel home screen loaded in home screen 		-	Pass
+
+Verify click on menu icon, hamburger menu should appear in home screen, If you click again the menu icon hamburger menu should disappears	-	Pass
+
+Verify Hamburger menu should have 10 options	-	Pass
+
+Verify when you click on different menu options it should display different contents in home screen		-	Pass
+
+Verify different screen opens with transitions		-	Pass
+
+Verify when loading contents in home screen, should show the loader	-	Pass
+
+Verify when the user minimises the app after taping on menu icon and reopens the app user should be presented with home screen along with the content of the menu clicked	-	Pass
+
+Verify when the user kills the app and reopens the app, user should be presented with home screen		-	Pass
+
+Verify the functionality when the user turns on the Airplane mode, user should be displayed alert message says “Please check your internet connection”	-	Pass
+
+Verify the when the loader shows, if you turn off wifi or mobile data, user should be displayed message says “Please check your internet connection”		-	Pass
+
+Verify the when using wifi, if you switch wifi to mobile 2g network, user should be displayed message says “Network Error! Unable to load page!”		-	Pass
+
+Verify since using web view for this application, disable hardware back button for android.		-	Pass
