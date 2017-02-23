@@ -1,0 +1,156 @@
+TDD test results for Helloworld Android application using Ti.mocha  :—
+
+[INFO] :   slideMenu :- slideMenuContainerViewslideMenuContainerView
+[INFO] :   slideMenu :- menuListViewmenuListView
+[INFO] :         + slideMenu.__views (43ms)
+[INFO] :       helloWorld.slideMenu.checking.url
+[INFO] :       helloWorld.slideMenu.checking.url
+[INFO] :   URL_HOME :- https://marvel.com/videos
+[INFO] :   Verify webview URL FAILED
+[INFO] :         + Checking webview URL:- URL_HOME
+[INFO] :   URL_HOME :- https://marvel.com/videos
+[INFO] :   Verify webview URL FAILED
+[INFO] :         + Checking webview URL:- URL_HOME
+[INFO] :   URL_LATEST_NEWS :- https://marvel.com/news
+[INFO] :         + Checking parameter URL:- URL_LATEST_NEWS
+[INFO] :   URL_LATEST_NEWS :- https://marvel.com/news
+[INFO] :         + Checking parameter URL:- URL_LATEST_NEWS
+[INFO] :   URL_COMICS:- https://marvel.com/comics
+[INFO] :   Verify webview URL_COMICS FAILED
+[INFO] :         + Checking parameter URL:- URL_COMICS
+[INFO] :   URL_COMICS:- https://marvel.com/comics
+[INFO] :   Verify webview URL_COMICS FAILED
+[INFO] :         + Checking parameter URL:- URL_COMICS
+[INFO] :   url:- https://marvel.com/movies
+[INFO] :   Verify webview URL_MOVIES FAILED
+[INFO] :         + Checking parameter URL:- URL_MOVIES
+[INFO] :   url:- https://marvel.com/movies
+[INFO] :   Verify webview URL_MOVIES FAILED
+[INFO] :         + Checking parameter URL:- URL_MOVIES
+[INFO] :   url:- https://marvel.com/videos
+[INFO] :   Verify webview URL_VIDEOS FAILED
+[INFO] :         + Checking parameter URL:- URL_VIDEOS
+[INFO] :   url:- https://marvel.com/videos
+[INFO] :   Verify webview URL_VIDEOS FAILED
+[INFO] :         + Checking parameter URL:- URL_VIDEOS
+[INFO] :   url:- https://marvel.com/games
+[INFO] :   Verify webview URL_GAMES FAILED
+[INFO] :         + Checking parameter URL:- URL_GAMES
+[INFO] :   url:- https://marvel.com/games
+[INFO] :   Verify webview URL_GAMES FAILED
+[INFO] :         + Checking parameter URL:- URL_GAMES
+[INFO] :   url:- https://marvel.com/tv
+[INFO] :   Verify webview URL_TV FAILED
+[INFO] :         + Checking parameter URL:- URL_TV
+[INFO] :   url:- https://marvel.com/tv
+[INFO] :   Verify webview URL_TV FAILED
+[INFO] :         + Checking parameter URL:- URL_TV
+[INFO] :   url:- https://marvel.com/characters
+[INFO] :   Verify webview URL_CHARACTERS FAILED
+[INFO] :         + Checking parameter URL:- URL_CHARACTERS
+[INFO] :   url:- https://marvel.com/characters
+[INFO] :   Verify webview URL_CHARACTERS FAILED
+[INFO] :         + Checking parameter URL:- URL_CHARACTERS
+[INFO] :   url:- https://shop.marvel.com
+[INFO] :   Verify webview URL_SHOP FAILED
+[INFO] :         + Checking parameter URL:- URL_SHOP
+[INFO] :   url:- https://shop.marvel.com
+[INFO] :   Verify webview URL_SHOP FAILED
+[INFO] :         + Checking parameter URL:- URL_SHOP
+[INFO] :   url:- https://marvel.com/search
+[INFO] :         + Checking parameter URL:- URL_HELP
+[INFO] :   url:- https://marvel.com/search
+[INFO] :         + Checking parameter URL:- URL_HELP
+[INFO] :    
+[INFO] :     helloWorld.ModalWebview
+[INFO] :    
+[INFO] :     helloWorld.ModalWebview
+[INFO] :       helloWorld.ModalWebview.views
+[INFO] :       helloWorld.ModalWebview.views
+[INFO] :   ModalWebview title :-
+[INFO] :   ModalWebview closeBtn :-undefined
+[INFO] :   ModalWebview webview :- webview
+[INFO] :   Verify ModalWebview title created FAILED
+[INFO] :   Verify ModalWebview close button created FAILED
+[INFO] :         + ModalWebview.__views
+[INFO] :   ModalWebview title :-
+[INFO] :   ModalWebview closeBtn :-undefined
+[INFO] :   ModalWebview webview :- webview
+[INFO] :   Verify ModalWebview title created FAILED
+[INFO] :   Verify ModalWebview close button created FAILED
+[INFO] :         + ModalWebview.__views
+[INFO] :   D/Mms/FreeMessageStatusReceiver( 4610): onReceive, action : android.intent.action.PACKAGE_ADDED
+[INFO] :   D/Mms/FreeMessageReceiverService( 4610): onHandleIntent, action : android.intent.action.PACKAGE_ADDED
+[INFO] :   D/Mms/FreeMessageReceiverService( 4610): onHandleIntent: ACTION_PACKAGE_ADDED
+[INFO] :    
+[INFO] :     helloWorld.Webservice
+[INFO] :    
+[INFO] :     helloWorld.Webservice
+[INFO] :       helloWorld.Webservice.views
+[INFO] :       helloWorld.Webservice.views
+[INFO] :   Webservice components :-
+[INFO] :         + Webservice.__views
+[INFO] :   Webservice components :-
+[INFO] :         + Webservice.__views
+[INFO] :    
+[INFO] :     helloWorld.index
+[INFO] :    
+[INFO] :     helloWorld.index
+[INFO] :       helloWorld.index.views
+[INFO] :       helloWorld.index.views
+[INFO] :   index :- network error
+[INFO] :   Timeline: Timeline: Activity_launch_request id:com.shiva.helloworld time:1265640
+[INFO] :   index :- applicationHeaderhamBurgerMenuHeader
+[INFO] :   index :- slideMenuSlideMenu
+[INFO] :   index :- webWrapperundefined
+[INFO] :         + index.__views (97ms)
+[INFO] :   AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+[INFO] :   index :- network error
+[INFO] :   Timeline: Timeline: Activity_launch_request id:com.shiva.helloworld time:1265926
+[INFO] :   index :- applicationHeaderhamBurgerMenuHeader
+[INFO] :   index :- slideMenuSlideMenu
+[INFO] :   index :- webWrapperundefined
+[INFO] :         + index.__views (110ms)
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   AwContents: onDetachedFromWindow called when already detached. Ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[INFO] :   AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+[INFO] :       helloWorld.index.views.applicationHeader
+[INFO] :       helloWorld.index.views.applicationHeader
+[INFO] :   index :- network error
+[INFO] :   Timeline: Timeline: Activity_launch_request id:com.shiva.helloworld time:1266216
+[INFO] :   index :- menuBtnundefined
+[INFO] :   index :- titleMarvel
+[INFO] :   Verify applicationHeader menuBtn FAILED
+[INFO] :   Verify applicationHeader title FAILED
+[INFO] :         + index.__views.applicationHeader (66ms)
+[INFO] :   index :- network error
+[INFO] :   Timeline: Timeline: Activity_launch_request id:com.shiva.helloworld time:1266280
+[INFO] :   index :- menuBtnundefined
+[INFO] :   index :- titleMarvel
+[INFO] :   Verify applicationHeader menuBtn FAILED
+[INFO] :   Verify applicationHeader title FAILED
+[INFO] :         + index.__views.applicationHeader (64ms)
+[INFO] :   D/[SAUI]  (13681): Global::recovered::false
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   AwContents: onDetachedFromWindow called when already detached. Ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[WARN] :   art: Attempt to remove local handle scope entry from IRT, ignoring
+[INFO] :   AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+[INFO] :   AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+[INFO] :    
+[INFO] :    
+[INFO] :    
+[INFO] :     16 passing (3s)
+[INFO] :    
+[INFO] :    
+[INFO] :     16 passing (3s)
