@@ -1,0 +1,186 @@
+TDD test results for Helloworld iOS application using Ti.mocha  :—
+
+
+[INFO] :   Helloworld/1.0 (6.0.1.265db0d)
+[INFO] :    
+[INFO] :   
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :    
+[INFO] :   
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :     helloWorld.hamburgerMenu
+[INFO] :     helloWorld.hamburgerMenu
+[INFO] :       helloWorld.hamburgerMenu.views
+[INFO] :       helloWorld.hamburgerMenu.views
+[INFO] :   hamburger menuBtn :- undefined
+[INFO] :   hamburger title :- title
+[INFO] :   hamburger searchBtn :- undefined
+[INFO] :   Verify hamburger Menu menu button created FAILED
+[INFO] :   Verify hamburger title created FAILED
+[INFO] :         + hamburgerMenu.__views
+[INFO] :   hamburger menuBtn :- undefined
+[INFO] :   hamburger title :- title
+[INFO] :   hamburger searchBtn :- undefined
+[INFO] :   Verify hamburger Menu menu button created FAILED
+[INFO] :   Verify hamburger title created FAILED
+[INFO] :         + hamburgerMenu.__views
+[INFO] :    
+[INFO] :     helloWorld.slideMenu
+[INFO] :    
+[INFO] :     helloWorld.slideMenu
+[INFO] :       helloWorld.slideMenu.views
+[INFO] :       helloWorld.slideMenu.views
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   slideMenu :- slideMenuContainerViewslideMenuContainerView
+[INFO] :   slideMenu :- menuListViewmenuListView
+[INFO] :         + slideMenu.__views (73ms)
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   slideMenu :- slideMenuContainerViewslideMenuContainerView
+[INFO] :   slideMenu :- menuListViewmenuListView
+[INFO] :         + slideMenu.__views (82ms)
+[INFO] :       helloWorld.slideMenu.checking.url
+[INFO] :       helloWorld.slideMenu.checking.url
+[INFO] :   URL_HOME :- https://marvel.com/movies
+[INFO] :         + Checking webview URL:- URL_HOME
+[INFO] :   URL_HOME :- https://marvel.com/movies
+[INFO] :         + Checking webview URL:- URL_HOME
+[INFO] :   URL_LATEST_NEWS :- https://marvel.com/news
+[INFO] :         + Checking parameter URL:- URL_LATEST_NEWS
+[INFO] :   URL_LATEST_NEWS :- https://marvel.com/news
+[INFO] :         + Checking parameter URL:- URL_LATEST_NEWS
+[INFO] :   URL_COMICS:- https://marvel.com/comics
+[INFO] :   Verify webview URL_COMICS FAILED
+[INFO] :         + Checking parameter URL:- URL_COMICS
+[INFO] :   URL_COMICS:- https://marvel.com/comics
+[INFO] :   Verify webview URL_COMICS FAILED
+[INFO] :         + Checking parameter URL:- URL_COMICS
+[INFO] :   url:- https://marvel.com/movies
+[INFO] :   Verify webview URL_MOVIES FAILED
+[INFO] :         + Checking parameter URL:- URL_MOVIES
+[INFO] :   url:- https://marvel.com/movies
+[INFO] :   Verify webview URL_MOVIES FAILED
+[INFO] :         + Checking parameter URL:- URL_MOVIES
+[INFO] :   url:- https://marvel.com/videos
+[INFO] :   Verify webview URL_VIDEOS FAILED
+[INFO] :         + Checking parameter URL:- URL_VIDEOS
+[INFO] :   url:- https://marvel.com/videos
+[INFO] :   Verify webview URL_VIDEOS FAILED
+[INFO] :         + Checking parameter URL:- URL_VIDEOS
+[INFO] :   url:- https://marvel.com/games
+[INFO] :   Verify webview URL_GAMES FAILED
+[INFO] :         + Checking parameter URL:- URL_GAMES
+[INFO] :   url:- https://marvel.com/games
+[INFO] :   Verify webview URL_GAMES FAILED
+[INFO] :         + Checking parameter URL:- URL_GAMES
+[INFO] :   url:- https://marvel.com/tv
+[INFO] :   Verify webview URL_TV FAILED
+[INFO] :         + Checking parameter URL:- URL_TV
+[INFO] :   url:- https://marvel.com/tv
+[INFO] :   Verify webview URL_TV FAILED
+[INFO] :         + Checking parameter URL:- URL_TV
+[INFO] :   url:- https://marvel.com/characters
+[INFO] :   Verify webview URL_CHARACTERS FAILED
+[INFO] :         + Checking parameter URL:- URL_CHARACTERS
+[INFO] :   url:- https://marvel.com/characters
+[INFO] :   Verify webview URL_CHARACTERS FAILED
+[INFO] :         + Checking parameter URL:- URL_CHARACTERS
+[INFO] :   url:- https://shop.marvel.com
+[INFO] :   Verify webview URL_SHOP FAILED
+[INFO] :         + Checking parameter URL:- URL_SHOP
+[INFO] :   url:- https://shop.marvel.com
+[INFO] :   Verify webview URL_SHOP FAILED
+[INFO] :         + Checking parameter URL:- URL_SHOP
+[INFO] :   url:- https://marvel.com/search
+[INFO] :         + Checking parameter URL:- URL_HELP
+[INFO] :   url:- https://marvel.com/search
+[INFO] :         + Checking parameter URL:- URL_HELP
+[INFO] :    
+[INFO] :     helloWorld.ModalWebview
+[INFO] :    
+[INFO] :     helloWorld.ModalWebview
+[INFO] :       helloWorld.ModalWebview.views
+[INFO] :       helloWorld.ModalWebview.views
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   ModalWebview title :-
+[INFO] :   ModalWebview closeBtn :-undefined
+[INFO] :   ModalWebview webview :- webview
+[INFO] :   Verify ModalWebview title created FAILED
+[INFO] :   Verify ModalWebview close button created FAILED
+[INFO] :         + ModalWebview.__views (51ms)
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   ModalWebview title :-
+[INFO] :   ModalWebview closeBtn :-undefined
+[INFO] :   ModalWebview webview :- webview
+[INFO] :   Verify ModalWebview title created FAILED
+[INFO] :   Verify ModalWebview close button created FAILED
+[INFO] :         + ModalWebview.__views (59ms)
+[INFO] :    
+[INFO] :     helloWorld.Webservice
+[INFO] :    
+[INFO] :     helloWorld.Webservice
+[INFO] :       helloWorld.Webservice.views
+[INFO] :       helloWorld.Webservice.views
+[INFO] :   Webservice components :-
+[INFO] :         + Webservice.__views
+[INFO] :   Webservice components :-
+[INFO] :         + Webservice.__views
+[INFO] :    
+[INFO] :     helloWorld.index
+[INFO] :    
+[INFO] :     helloWorld.index
+[INFO] :       helloWorld.index.views
+[INFO] :       helloWorld.index.views
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   index :- applicationHeaderhamBurgerMenuHeader
+[INFO] :   index :- slideMenuSlideMenu
+[INFO] :   index :- webWrapperhttps://marvel.com/movies
+[INFO] :         + index.__views (140ms)
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   index :- applicationHeaderhamBurgerMenuHeader
+[INFO] :   index :- slideMenuSlideMenu
+[INFO] :   index :- webWrapperhttps://marvel.com/movies
+[INFO] :         + index.__views (152ms)
+[INFO] :       helloWorld.index.views.applicationHeader
+[INFO] :       helloWorld.index.views.applicationHeader
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   index :- menuBtnundefined
+[INFO] :   index :- title
+[INFO] :   Verify applicationHeader menuBtn FAILED
+[INFO] :   Verify applicationHeader title FAILED
+[INFO] :         + index.__views.applicationHeader (142ms)
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   Hardware button iOS:- Not applicable
+[INFO] :   index :- menuBtnundefined
+[INFO] :   index :- title
+[INFO] :   Verify applicationHeader menuBtn FAILED
+[INFO] :   Verify applicationHeader title FAILED
+[INFO] :         + index.__views.applicationHeader (149ms)
+[INFO] :    
+[INFO] :    
+[INFO] :    
+[INFO] :     16 passing (2s)
+[INFO] :    
+[INFO] :    
+[INFO] :     16 passing (2s)
+[INFO] :    
+[INFO] :   Menu button clicked :- Menu Moving right
+[INFO] :   Menu button clicked :- Menu Moving right
+[WARN] :   New layout set while view [object webWrapper] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object webWrapper] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object headerContainerId] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object webWrapper] animating: Will relayout after animation.
+[INFO] :   iOS :- No need to show Loader
+[INFO] :   XHR API Params :-- reqURL	https://marvel.com/news
+[INFO] :   XHR API Params :-- reqMethod	GET
+[INFO] :   XHR API Params :-- reqParams	null
+[INFO] :   Menu itemclick 1 clicked :-
+[INFO] :   close slide menu closed :-
+[WARN] :   New layout set while view [object webWrapper] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object headerContainerId] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object slideMenuContainerView] animating: Will relayout after animation.
+[WARN] :   New layout set while view [object webWrapper] animating: Will relayout after animation.
+[INFO] :   Deallocating WebView
+[INFO] :   iOS :- No need to show Loader
